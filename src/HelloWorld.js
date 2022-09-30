@@ -1,7 +1,5 @@
-let helloWorld = <h1>Hello World!</h1>;
+let helloWorld = <h1>Hello, !</h1>
 
-function Hello() {
+export default function Hello(){
     return (helloWorld);
 }
-
-export default Hello;
