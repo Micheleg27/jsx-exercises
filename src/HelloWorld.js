@@ -1,5 +1,7 @@
-let helloWorld = <h1>Hello, !</h1>
+const Helloyou = (name) => {return <h1>Hello, {name}</h1>};
 
-export default function Hello(){
-    return (helloWorld);
+const Par = () => {
+    return Helloyou("michele");
 }
+
+export default Par;

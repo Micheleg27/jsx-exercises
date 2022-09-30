@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Hello from './HelloWorld';
+import Par from './HelloWorld';
 
 function App() {
   return (
-    <Hello />
+    <Par/>
   );
 }
 
