@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 import Hello from './HelloWorld';
+import H2sum from './Sum';
 
 function App() {
   return (
-    <Hello />
+    <H2sum />
   );
 }
 
